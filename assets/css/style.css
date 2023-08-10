@@ -360,7 +360,6 @@ footer {
     }
     .image-header img {
         width: 69rem;
-        animation: scale-in-top 1.6s;
     }
     .container-cards {
         padding: 6.4rem 0;
@@ -412,40 +411,6 @@ footer {
  * See http://animista.net/license for more info. 
  * w: http://animista.net, t: @cssanimista
  * ---------------------------------------------- */
-
-@-webkit-keyframes scale-in-top {
-    0% {
-      -webkit-transform: scale(0);
-              transform: scale(0);
-      -webkit-transform-origin: 50% 0%;
-              transform-origin: 50% 0%;
-      opacity: 1;
-    }
-    100% {
-      -webkit-transform: scale(1);
-              transform: scale(1);
-      -webkit-transform-origin: 50% 0%;
-              transform-origin: 50% 0%;
-      opacity: 1;
-    }
-}
-@keyframes scale-in-top {
-    0% {
-    -webkit-transform: scale(0);
-            transform: scale(0);
-    -webkit-transform-origin: 50% 0%;
-            transform-origin: 50% 0%;
-            opacity: 1;
-    }
-    100% {
-      -webkit-transform: scale(1);
-              transform: scale(1);
-      -webkit-transform-origin: 50% 0%;
-              transform-origin: 50% 0%;
-      opacity: 1;
-    }
-}
-
 
 @-webkit-keyframes bounce-in-bottom {
     0% {
