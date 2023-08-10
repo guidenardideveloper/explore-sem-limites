@@ -30,6 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto realizado dentro do programa Explorer da Rocketseat. Neste projeto foi abordado conceitos como flexbox, grid, animações, Mobile First, transition, position, uso de variáveis no CSS, acessibilidade, exportação de imagem no Figma, HTML semântico, entre outros.
 
+<a href="https://guidenardideveloper.github.io/explore-sem-limites/?" target="_blank">Clique aqui para visualizar</a>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
